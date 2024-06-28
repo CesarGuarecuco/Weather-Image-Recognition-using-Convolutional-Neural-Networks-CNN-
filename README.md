@@ -1,0 +1,2 @@
+# Weather-Image-Recognition-using-Convolutional-Neural-Networks-CNN-
+Este repositorio contiene el código y los recursos necesarios para entrenar y evaluar un modelo de red neuronal convolucional (CNN) destinado a la clasificación de imágenes según diferentes condiciones meteorológicas. El proyecto utiliza un dataset de imágenes del tiempo, que incluye categorías como soleado, lluvioso, nevado, nublado, entre otros.
